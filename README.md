@@ -67,5 +67,3 @@ Used Excel data, created structured tables in SQL, and connected it to Power BI 
 - Improves **data-driven decision-making**  
 
 ---
-
-## 📂 Project Structure
